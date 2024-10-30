@@ -1,0 +1,43 @@
+{
+	"__": {
+		"Due Date Calculator": "Calculadora de la fecha de parto",
+		"When did your last period start?": "¿Cuándo se inició su último periodo?",
+		"E.g.,": "P. ej., el",
+		"Generally, how long are your cycles?": "Duración habitual del ciclo",
+		"To measure the length of your menstrual cycle, count from the day your period starts to the day before your next period starts. If you aren't sure, the calculator will assume a typical length of 28 days.": "Para medir la duración de su ciclo menstrual, cuente desde el día en que comienza su período hasta el día antes de que comience su próximo período. Si no está segura, la calculadora supondrá una duración típica de 28 días.",
+		"Calculate your due date": "Calcule",
+		"Your baby is likely to be born on or around*": "Su bebé nacerá probablemente o aproximadamente el*",
+		"*Only your physician can accurately determine your due date or the date of your conception based on his/her knowledge of your complete medical condition.": "*Solo su médico puede determinar con precisión su fecha de vencimiento o la fecha de su concepción basándose en su conocimiento de su condición médica completa.",
+		"Change my informations": "Cambiar mi información",
+		"In partnership with Clearblue.": "En asociación con <a href='https://es.clearblue.com/' target='_blank'>Clearblue®</a>.",
+		"Shortcode": "Shortcode",
+		"Settings": "Settings",
+		"Credits": "Credits",
+		"Allow the plugin to display a \"In partnership with Clearblue\" link": "Permita que el plugin muestre un \"En asociación con Clearblue\"",
+		"Colors": "Colors",
+		"Save": "Submit",
+		"Reset settings": "Reset settings",
+		"cbddc-language": "Language",
+		"cbddc-format": "Format",
+		"cbddc-format-round": "Round",
+		"cbddc-format-square": "Squared",
+		"cbddc-color-background": "Background",
+		"cbddc-color-title": "Title",
+		"cbddc-color-text": "Text",
+		"cbddc-color-button": "Button",
+		"cbddc-color-button-text": "Button - Text",
+		"cbddc-color-input": "Input",
+		"cbddc-color-border": "Input - Border",
+		"cbddc-color-error": "Input - Error"
+	},
+	"locale": {
+		"dateFormat": "yyyy-mm-dd",
+		"firstDay": 1,
+		"dateFormatLong": "DD dd MM yyyy",
+		"dateFormatIcal": "yyyymmdd",
+		"months": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+		"monthsShort": ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+		"days": ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado"],
+		"daysMin": ["Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"]
+	}
+}

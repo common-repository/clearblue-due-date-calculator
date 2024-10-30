@@ -1,0 +1,43 @@
+{
+	"__": {
+		"Due Date Calculator": "Due Date Calculator",
+		"When did your last period start?": "When did your last period start?",
+		"E.g.,": "E.g.,",
+		"Generally, how long are your cycles?": "Generally, how long are your cycles?",
+		"To measure the length of your menstrual cycle, count from the day your period starts to the day before your next period starts. If you aren't sure, the calculator will assume a typical length of 28 days.": "To measure the length of your menstrual cycle, count from the day your period starts to the day before your next period starts. If you aren't sure, the calculator will assume a typical length of 28 days.",
+		"Calculate your due date": "Calculate your due date",
+		"Your baby is likely to be born on or around*": "Your baby is likely to be born on or around*",
+		"*Only your physician can accurately determine your due date or the date of your conception based on his/her knowledge of your complete medical condition.": "*Only your physician can accurately determine your due date or the date of your conception based on his/her knowledge of your complete medical condition.",
+		"Change my informations": "Change my informations",
+		"In partnership with Clearblue.": "In partnership with <a href='https://www.clearblue.com/' target='_blank'>Clearblue®</a>.",
+		"Shortcode": "Shortcode",
+		"Settings": "Settings",
+		"Credits": "Credits",
+		"Allow the plugin to display a \"In partnership with Clearblue\" link": "Allow the plugin to display a \"In partnership with Clearblue\" link",
+		"Colors": "Colors",
+		"Save": "Submit",
+		"Reset settings": "Reset settings",
+		"cbddc-language": "Language",
+		"cbddc-format": "Format",
+		"cbddc-format-round": "Round",
+		"cbddc-format-square": "Squared",
+		"cbddc-color-background": "Background",
+		"cbddc-color-title": "Title",
+		"cbddc-color-text": "Text",
+		"cbddc-color-button": "Button",
+		"cbddc-color-button-text": "Button - Text",
+		"cbddc-color-input": "Input",
+		"cbddc-color-border": "Input - Border",
+		"cbddc-color-error": "Input - Error"
+	},
+	"locale": {
+		"dateFormat": "yyyy-mm-dd",
+		"firstDay": 1,
+		"dateFormatLong": "DD dd MM yyyy",
+		"dateFormatIcal": "yyyymmdd",
+		"months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+		"monthsShort": [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+		"days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+		"daysMin": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+	}
+}

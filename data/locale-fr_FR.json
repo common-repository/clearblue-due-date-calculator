@@ -1,0 +1,43 @@
+{
+	"__": {
+		"Due Date Calculator": "Calculateur de date présumée",
+		"When did your last period start?": "Quand ont commencé vos dernières règles ?",
+		"E.g.,": "Par ex. le",
+		"Generally, how long are your cycles?": "En général, quelle est la durée de vos cycles ?",
+		"To measure the length of your menstrual cycle, count from the day your period starts to the day before your next period starts. If you aren't sure, the calculator will assume a typical length of 28 days.": "Pour mesurer la durée de votre cycle menstruel, comptez du jour où vos règles commencent au jour précédant vos prochaines règles. Si vous n'êtes pas sûr, la calculatrice supposera une durée typique de 28 jours.",
+		"Calculate your due date": "Calculez la date présumée de cet événement",
+		"Your baby is likely to be born on or around*": "Il est probable que votre bébé naisse à cette date ou aux alentours du*",
+		"*Only your physician can accurately determine your due date or the date of your conception based on his/her knowledge of your complete medical condition.": "*Seul votre médecin peut déterminer avec précision votre date de naissance présumée ou la date de votre conception en fonction de sa connaissance de votre état de santé complet.",
+		"Change my informations": "Changer mes informations",
+		"In partnership with Clearblue.": "En partenariat avec <a href='https://fr.clearblue.com/' target='_blank'>Clearblue®</a>.",
+		"Shortcode": "Shortcode",
+		"Settings": "Settings",
+		"Credits": "Credits",
+		"Allow the plugin to display a \"In partnership with Clearblue\" link": "Autoriser le plugin à afficher un \"En partenariat avec Clearblue\"",
+		"Colors": "Colors",
+		"Save": "Submit",
+		"Reset settings": "Reset settings",
+		"cbddc-language": "Language",
+		"cbddc-format": "Format",
+		"cbddc-format-round": "Round",
+		"cbddc-format-square": "Squared",
+		"cbddc-color-background": "Background",
+		"cbddc-color-title": "Title",
+		"cbddc-color-text": "Text",
+		"cbddc-color-button": "Button",
+		"cbddc-color-button-text": "Button - Text",
+		"cbddc-color-input": "Input",
+		"cbddc-color-border": "Input - Border",
+		"cbddc-color-error": "Input - Error"
+	},
+	"locale": {
+		"dateFormat": "dd/mm/yyyy",
+		"firstDay": 1,
+		"dateFormatLong": "DD dd MM yyyy",
+		"dateFormatIcal": "yyyymmdd",
+		"months": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+		"monthsShort": ["Jan", "Fév", "Mar", "Avr", "Mai", "Jun", "Jul", "Aoû", "Sep", "Oct", "Nov", "Déc"],
+		"days": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+		"daysMin": ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"]
+	}
+}
